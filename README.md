@@ -1,4 +1,4 @@
-# Hello 👀
+# Hello!
 
 - 💻 `WIP` Web Developer
 - 🎧 [Music Producer](https://open.spotify.com/playlist/4fkkMx9Zx0ljoHOhXlgRMS)
